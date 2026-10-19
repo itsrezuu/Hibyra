@@ -1,0 +1,8 @@
+
+.git
+.env
+.env.docker
+vendor/
+node_modules/
+database/database.sqlite
+storage/logs/*
